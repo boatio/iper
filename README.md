@@ -1,5 +1,5 @@
 # iper
-```python3 ,python2```<br>
+```python3```<br>
 ![image](https://user-images.githubusercontent.com/37399578/39605861-7b6c1372-4f6d-11e8-9a36-f71793b261ec.png)
 <br>
 ``` ipw [url] ```<br>
