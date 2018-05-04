@@ -9,10 +9,12 @@ print("""
                      ..##..##........##.......##...##..
                      ..##..##........##.......##....##.
                      .####.##........########.##.....##
+                            make by Boat on Boat
+                                  ver 1.0
 """)
 c = None
 while 1:
-        c = input('(I P E R):')
+        c = raw_input('(I P E R):')
         if c.startswith('ipw'):
                 c = c.replace('ipw ','')
                 try:
